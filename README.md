@@ -2,7 +2,7 @@
 # CSE330
 | Name      | Student ID | Github Username |
 | ----------- | ----------- | ----------- |
-| Vivian Zhong  | 452183     |yhzhong23     |
+| Vivian Zhong  | 452183     |vivian3243 |
 | Shengyu Zhu   | 464523    |julie-zsy      |
 
 ## Topic: Workout Tracker 
